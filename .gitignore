@@ -8,3 +8,7 @@ build/
 ios/.generated/
 packages
 pubspec.lock
+android/.project
+android/.settings/
+example/android/.project
+example/android/.settings/
